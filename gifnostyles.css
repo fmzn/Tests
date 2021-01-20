@@ -1,0 +1,21 @@
+
+#ushianime{
+    display: flex;
+    justify-content: center;
+}
+
+
+#ushianime img{
+
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#nezumianime img{
+
+   width: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
