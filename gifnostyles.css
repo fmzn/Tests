@@ -4,6 +4,12 @@
     justify-content: center;
 }
 
+#mainlogo{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
 
 #ushianime img{
 
@@ -19,3 +25,12 @@
     justify-content: center;
     margin-top: 200px;
 }
+#hitoanime img{
+    
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
